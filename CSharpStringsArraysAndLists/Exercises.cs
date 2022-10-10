@@ -15,7 +15,7 @@ namespace CSharpStringsArraysAndLists
 
         // 1: Arrays
         // Create an array of doubles each of which holds three coordinates
-        // Print these to the screen
+        // Print these to the screen ....
 
         // 2: Byte Arrays
         // i) Create an array of bytes that represents the word hello. Convert this to a string and output the result.
