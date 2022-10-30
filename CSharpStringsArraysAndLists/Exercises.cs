@@ -112,7 +112,7 @@ namespace CSharpStringsArraysAndLists
             
             for (int i = 0; i < Dates.Count; i++)
             {
-                if (Dates[j] >= Date1)
+                if (Dates[i] >= Date1)
                 {
                     Count = Count + 1;
                     Older.Add(Dates[i]);
@@ -167,7 +167,9 @@ namespace CSharpStringsArraysAndLists
         // Anagram("star", ["rats", "arts", "arc"]) => 2
         public static int Anagram(string input, string[] possibleAnagrams)
         {
-            throw new NotImplementedException();
+
+
+
         }
 
         // 8. Variable Name helper
